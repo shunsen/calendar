@@ -1,0 +1,33 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "a calendar component",
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shunsen/calendar.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "zss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shunsen/calendar/issues"
+  },
+  "homepage": "https://github.com/shunsen/calendar#readme",
+  "dependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "element-ui": "^2.13.0",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0",
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.41.4"
+  }
+}
