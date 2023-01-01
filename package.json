@@ -21,13 +21,13 @@
   },
   "homepage": "https://github.com/shunsen/calendar#readme",
   "dependencies": {
-    "@vue/cli-plugin-babel": "^4.1.0",
-    "@vue/cli-service": "^4.1.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "element-ui": "^2.13.0",
     "node-sass": "^4.13.0",
-    "sass-loader": "^8.0.0",
+    "sass-loader": "^13.2.0",
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.10",
-    "webpack": "^4.41.4"
+    "webpack": "^5.75.0"
   }
 }
